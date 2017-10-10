@@ -2,7 +2,7 @@
 ## 「WLOラズパイ倶楽部　Grove I2Cでデバイス接続」
 
 ## Peatix イベント申し込みページ
-
+http://171012raspi.peatix.com/　※閲覧にはパスワードが必要です
 
 ## 詳細
 WLOラズパイ倶楽部は、RaspberryPiやArduinoなどを使った 趣味の電子工作に興味ある有志の集まりです。 
